@@ -21,7 +21,7 @@ git clone [URL of this GitHub repository]
 
 2. Navigate to the project directory:
 
-cd [Your Repository Name]
+cd [the Repository Name]
 
 
 3. Install the required libraries:
